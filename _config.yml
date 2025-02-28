@@ -27,9 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  KeepCrow
 
 # Build settings
-remote_theme: "jeffreytse/jekyll-theme-yat"
-plugins:
-  - jekyll-remote-theme
+theme: "jekyll-theme-yat"
 
 # Exclude from processing.
 # The following items will not be processed, by default.

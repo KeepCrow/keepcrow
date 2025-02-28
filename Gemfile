@@ -33,7 +33,4 @@ gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 # 使用新的主题以及配套的GEM
-gem "jekyll-remote-theme", group: :jekyll_plugins
-gem "jekyll-sitemap"
-gem "jekyll-paginate"
-gem "jekyll-spaceship"
+gem "jekyll-theme-yat"
