@@ -1,5 +1,5 @@
 ---
-layout: framework
+layout: post
 sidebar: category-list
 title:  "Let's Build a Simple Interpreter 第七章"
 date:   2025-03-01 21:41:46 +0800
